@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lokeshch18
+- 👋 Hi, I’m lokesh chaudahri
 - 👀 interested in problem solving
 - 🌱 currently learning c,python
 
