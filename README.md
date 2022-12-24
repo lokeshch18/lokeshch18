@@ -1,12 +1,15 @@
 - 👋 Hi, I’m lokesh chaudahri
 - 👀 interested in problem solving
 - 🌱 currently learning c,python
+- SKILLS   ----  python, c, microsoft office, linux. 
 
-SKILLS   ----  python, c, microsoft office, linux. 
 
-linkedin ----  https://www.linkedin.com/in/lokesh-chaudhari-3281281b3
+[CONTACT]
+- linkedin ----  https://www.linkedin.com/in/lokesh-chaudhari-3281281b3
+- email ---- lokeshch1805@gmail.com
 
-EDU     -----  computer engineering.
 
-COLLEGE -----  SPIT,Mumbai.
+EDUCATION 
+- computer engineering.
+- AT SPIT,Mumbai.
 
